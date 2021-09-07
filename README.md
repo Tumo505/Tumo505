@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello!
+<a href="https://www.facebook.com/tumo.kgosiyame">
+  <img align="left" alt="Tumo kgosiyame" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://twitter.com/Tumo505">
+  <img align="left" alt="Tumo kgosiyame | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tumo-kgosiyame-23a696168/">
+  <img align="left" alt="Tumo kgosiyame | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**Tumo505/Tumo505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+📊 **This  Week:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+```text
+Dart     7 hrs 6 mins    ████████████████████▒░░░░   81.99 %
+Python   1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+```
+<!--END_SECTION:waka-->
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tumo505&show_icons=true&theme=gotham" alt="Tumo505" />
+
+
