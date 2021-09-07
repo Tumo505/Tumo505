@@ -16,11 +16,6 @@
 📊 **This  Week:**
 
 <!--START_SECTION:waka-->
-```text
-Dart     7 hrs 6 mins    ████████████████████▒░░░░   81.99 %
-Python   1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-```
 <!--END_SECTION:waka-->
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tumo505&show_icons=true&theme=gotham" alt="Tumo505" />
