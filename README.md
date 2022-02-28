@@ -16,10 +16,12 @@
 📊 **This  Week:**
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   33 hrs 20 mins  ███████████████████████▓░   95.01 % 
-Other        1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JavaScript   25 hrs 30 mins  ███████████████████████▒░   93.57 %
+Other        1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
+
 <!--END_SECTION:waka-->
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tumo505&show_icons=true&theme=gotham" alt="Tumo505" />
