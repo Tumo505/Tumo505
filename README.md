@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 hrs 23 mins  ████████████████████████░   96.52 %
-MQL          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript   17 hrs 14 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
