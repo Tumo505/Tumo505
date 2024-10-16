@@ -1,11 +1,11 @@
 ### Hello!
-<a href="https://www.facebook.com/tumo.kgabeng">
+<a href="https://www.facebook.com/tumo.kgabeng" target="_blank">
   <img align="left" alt="Tumo Kgabeng" width="22px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
 </a>
-<a href="https://x.com/tumokgabeng">
+<a href="https://x.com/tumokgabeng" target="_blank">
   <img align="left" alt="Tumo Kgabeng | Twitter" width="22px" src="https://img.icons8.com/color/344/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/tumo-kgabeng-23a696168/">
+<a href="https://www.linkedin.com/in/tumo-kgabeng-23a696168/" target="_blank">
   <img align="left" alt="Tumo Kgabeng | Linkedin" width="22px" src="https://img.icons8.com/color/344/linkedin-circled.png" />
 </a>
 
