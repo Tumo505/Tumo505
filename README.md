@@ -1,12 +1,12 @@
 ### Hello!
-<a href="https://www.facebook.com/tumo.kgosiyame">
-  <img align="left" alt="Tumo kgosiyame" width="22px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
+<a href="https://www.facebook.com/tumo.kgabeng">
+  <img align="left" alt="Tumo Kgabeng" width="22px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
 </a>
-<a href="https://twitter.com/Tumo505">
-  <img align="left" alt="Tumo kgosiyame | Twitter" width="22px" src="https://img.icons8.com/color/344/twitter.png" />
+<a href="https://x.com/tumokgabeng">
+  <img align="left" alt="Tumo Kgabeng | Twitter" width="22px" src="https://img.icons8.com/color/344/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/tumo-kgosiyame-23a696168/">
-  <img align="left" alt="Tumo kgosiyame | Linkedin" width="22px" src="https://img.icons8.com/color/344/linkedin-circled.png" />
+<a href="https://www.linkedin.com/in/tumo-kgabeng-23a696168/">
+  <img align="left" alt="Tumo Kgabeng | Linkedin" width="22px" src="https://img.icons8.com/color/344/linkedin-circled.png" />
 </a>
 
 <br/>
